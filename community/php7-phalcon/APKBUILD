@@ -3,7 +3,7 @@
 pkgname=php7-phalcon
 _pkgext=phalcon
 _pkgreal=cphalcon
-pkgver=3.4.1
+pkgver=3.4.2
 _pkgver=${pkgver/_rc/RC}
 pkgrel=0
 pkgdesc="High performance, full-stack PHP framework delivered as a C extension"
